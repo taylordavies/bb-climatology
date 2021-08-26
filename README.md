@@ -1,7 +1,6 @@
 # bb-climatology
 Climatology (1999-2020) plots for Bedford Basin including; heat flux, freshwater flux, 10m wind, temperature profiles, salinity profiles
 
-These two python scripts generate a climatology for a variety of parameters specific to Bedford Basin.
 
 
 bedford_basin_ERA5.ipynb uses the ERA5 reanalysis product (available at https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview) to generate climatologies for;
