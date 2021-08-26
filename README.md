@@ -13,6 +13,7 @@ bedford_basin_ERA5.ipynb uses the ERA5 reanalysis product (available at https://
 -10m wind, u and v components
 
 
+
 bedford_basin_CTD.ipynb uses CTD cast data from Bedford Institute of Oceanography (available at https://inter-l01.dfo-mpo.gc.ca/sites/bio/science/monitoring-monitorage/bbmp-pobb/bbmp-pobb-en.php?=undefined&wbdisable=true#wb-info) to generate climatologies for;
 
 -temperature profiles
